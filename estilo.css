@@ -1,0 +1,11 @@
+h1:hover {
+    color: rgb(130, 184, 87);
+}
+
+.titulo-contenidoExtra:hover{
+    color: blueviolet;
+}
+
+#id_element:hover{
+    color: rgb(43, 189, 226);
+}
